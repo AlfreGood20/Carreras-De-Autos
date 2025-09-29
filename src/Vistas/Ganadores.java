@@ -59,22 +59,16 @@ public class Ganadores extends JFrame{
 
         // Acciones botones
         btnVolver.addActionListener(e -> {
-            /*List<String> jugadores=Arrays.asList(ganadores);
+            List<String> jugadores=Arrays.asList(ganadores);
             this.setVisible(false);
 
-            new Carrera(jugadores);*/
+            new Carrera(jugadores);
         });
 
         btnReiniciar.addActionListener(e -> {
-            /*this.setVisible(false);
+            this.setVisible(false);
             
-            new Menu();*/
+            new Menu();
         });
-    }
-
-    public static void main(String[] args)  {
-
-        String [] ganadores={"Alfredo","Bot 2","Bot 4"};
-        new Ganadores(ganadores).setVisible(true);
     }
 }
