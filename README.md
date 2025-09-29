@@ -124,3 +124,25 @@ public class Auto extends Thread{
         }
     }
 ````
+
+# Imagenes del proyecto 🖨️💻
+
+
+Ventana Bienvenida
+
+![alt text](image.png)
+
+
+Menu
+
+![alt text](image-1.png)
+
+
+Pantalla de carrera
+
+![alt text](image-2.png)
+
+
+Resultado de la carrera
+
+![alt text](image-3.png)
